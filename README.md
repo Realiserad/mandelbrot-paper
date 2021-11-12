@@ -11,4 +11,4 @@ You can also [read the paper on Issuu](https://issuu.com/realiserad/docs/mandelb
 Explore the Mandelbrot Set
 ==========================
 
-Most of the grpahics in this paper was created using my Mandelbrot rendering program, which can be found in the ``code`` directory.
+Most of the grpahics in this paper was created using [my Mandelbrot rendering program](https://github.com/Realiserad/mandelbrot).
